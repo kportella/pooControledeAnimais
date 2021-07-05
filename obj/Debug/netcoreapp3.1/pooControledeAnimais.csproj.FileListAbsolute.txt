@@ -1,0 +1,11 @@
+C:\Users\kaue\OneDrive - Bem Promotora de Vendas e Servicos SA\Documentos\Programação Orientada a Objetos utilizando a linguagem C#\pooControledeAnimais\bin\Debug\netcoreapp3.1\pooControledeAnimais.exe
+C:\Users\kaue\OneDrive - Bem Promotora de Vendas e Servicos SA\Documentos\Programação Orientada a Objetos utilizando a linguagem C#\pooControledeAnimais\bin\Debug\netcoreapp3.1\pooControledeAnimais.deps.json
+C:\Users\kaue\OneDrive - Bem Promotora de Vendas e Servicos SA\Documentos\Programação Orientada a Objetos utilizando a linguagem C#\pooControledeAnimais\bin\Debug\netcoreapp3.1\pooControledeAnimais.runtimeconfig.json
+C:\Users\kaue\OneDrive - Bem Promotora de Vendas e Servicos SA\Documentos\Programação Orientada a Objetos utilizando a linguagem C#\pooControledeAnimais\bin\Debug\netcoreapp3.1\pooControledeAnimais.runtimeconfig.dev.json
+C:\Users\kaue\OneDrive - Bem Promotora de Vendas e Servicos SA\Documentos\Programação Orientada a Objetos utilizando a linguagem C#\pooControledeAnimais\bin\Debug\netcoreapp3.1\pooControledeAnimais.dll
+C:\Users\kaue\OneDrive - Bem Promotora de Vendas e Servicos SA\Documentos\Programação Orientada a Objetos utilizando a linguagem C#\pooControledeAnimais\bin\Debug\netcoreapp3.1\pooControledeAnimais.pdb
+C:\Users\kaue\OneDrive - Bem Promotora de Vendas e Servicos SA\Documentos\Programação Orientada a Objetos utilizando a linguagem C#\pooControledeAnimais\obj\Debug\netcoreapp3.1\pooControledeAnimais.csprojAssemblyReference.cache
+C:\Users\kaue\OneDrive - Bem Promotora de Vendas e Servicos SA\Documentos\Programação Orientada a Objetos utilizando a linguagem C#\pooControledeAnimais\obj\Debug\netcoreapp3.1\pooControledeAnimais.AssemblyInfoInputs.cache
+C:\Users\kaue\OneDrive - Bem Promotora de Vendas e Servicos SA\Documentos\Programação Orientada a Objetos utilizando a linguagem C#\pooControledeAnimais\obj\Debug\netcoreapp3.1\pooControledeAnimais.AssemblyInfo.cs
+C:\Users\kaue\OneDrive - Bem Promotora de Vendas e Servicos SA\Documentos\Programação Orientada a Objetos utilizando a linguagem C#\pooControledeAnimais\obj\Debug\netcoreapp3.1\pooControledeAnimais.dll
+C:\Users\kaue\OneDrive - Bem Promotora de Vendas e Servicos SA\Documentos\Programação Orientada a Objetos utilizando a linguagem C#\pooControledeAnimais\obj\Debug\netcoreapp3.1\pooControledeAnimais.pdb
